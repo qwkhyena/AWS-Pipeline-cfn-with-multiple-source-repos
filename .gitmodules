@@ -1,0 +1,6 @@
+[submodule "submodule_AWS-Pipeline-API-GW-cfn-and-property-files"]
+	path = submodule_AWS-Pipeline-API-GW-cfn-and-property-files
+	url = git@github.com:qwkhyena/submodule_AWS-Pipeline-API-GW-cfn-and-property-files.git
+[submodule "submodule_AWS-Pipeline-code"]
+	path = submodule_AWS-Pipeline-code
+	url = git@github.com:qwkhyena/submodule_AWS-Pipeline-code.git

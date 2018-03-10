@@ -22,3 +22,6 @@ Will add the new profile as a stanza to your ~/.aws/config and ~/.aws/credential
 
 (See: https://docs.aws.amazon.com/cli/latest/userguide/cli-multiple-profiles.html)
 
+# Before you use git push, you might need to switch to using ssh vs using https.
+(previously: url = https://github.com/qwkhyena/AWS-Pipeline-cfn-with-multiple-source-repos.git)
+git remote set-url origin git@github.com:username/repo.git
